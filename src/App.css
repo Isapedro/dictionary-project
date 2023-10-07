@@ -1,0 +1,22 @@
+body{
+  background: linear-gradient(rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0.7)),url(images/background.png);
+   background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+
+.App {
+  text-align: center;
+}
+.App footer{
+  color: blanchedalmond;
+  padding: 10px;
+
+}
+.App footer a{
+  text-decoration: none;
+  color: #908E85;
+  border-radius: 3px;
+  background-color: #241D11;
+}
