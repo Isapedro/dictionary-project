@@ -20,3 +20,8 @@ body{
   border-radius: 3px;
   background-color: #241D11;
 }
+.title{
+  font-family:'MonteCarlo', cursive; ;
+  font-size: 120px;
+  font-weight: bold;
+}

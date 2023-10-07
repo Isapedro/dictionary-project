@@ -1,5 +1,17 @@
-.title{
-  font-family:'MonteCarlo', cursive; ;
-  font-size: 120px;
-  font-weight: bold;
+form input{
+  background-color: blanchedalmond;
+  border-radius: 3px;
+ font-family: 'MonteCarlo', cursive;
+font-size: 20px;
+border: #241D11 1px solid;
+
+
 }
+.input{
+padding: 0 30px;
+text-align: center;
+}
+.search{
+  padding: 0 20px;
+}
+ 
