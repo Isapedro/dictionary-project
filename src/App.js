@@ -14,7 +14,9 @@ function App() {
           <main>
           <Dictionary />
           </main>
-          <footer className="text-center">
+        </div>
+      </div>
+      <footer className="text-center">
             {" "}
             This project is {""}
             <a
@@ -33,8 +35,6 @@ function App() {
               Anaisa Pedro
             </a>
           </footer>
-        </div>
-      </div>
     </div>
   );
 }

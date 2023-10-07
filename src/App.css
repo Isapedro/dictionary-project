@@ -6,22 +6,27 @@ body{
   background-attachment: fixed;
  
 }
-
+.container{
+  max-width: 1000px;
+}
 .App {
   text-align: center;
-  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
   font-weight: bold;
 }
-.App footer{
+footer{
   color: blanchedalmond;
-  padding: 10px;
+  padding: 0;
 
 }
-.App footer a{
+footer a{
   text-decoration: none;
   color: #908E85;
   border-radius: 3px;
   background-color: #241D11;
+}
+main{
+  padding: 10px;
 }
 .title{
   font-family:'MonteCarlo', cursive; ;
