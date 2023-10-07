@@ -4,10 +4,13 @@ body{
   background-position: center;
   background-repeat: no-repeat;
   background-attachment: fixed;
+ 
 }
 
 .App {
   text-align: center;
+  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  font-weight: bold;
 }
 .App footer{
   color: blanchedalmond;
@@ -24,4 +27,5 @@ body{
   font-family:'MonteCarlo', cursive; ;
   font-size: 120px;
   font-weight: bold;
+  color: #241D11;
 }
