@@ -2,7 +2,7 @@ form input{
   background-color: blanchedalmond;
   border-radius: 3px;
  font-family: 'MonteCarlo', cursive;
-font-size: 20px;
+font-size: 23px;
 border: #241D11 1px solid;
 margin-bottom: 30px;
 
@@ -19,6 +19,12 @@ box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
   padding: 3px 30px;
 }
  @media (max-width: 700px) {
+form input{
+  margin: 10px;
+font-size: 18px;
+
+}
+
   form .input{
     padding: 3px 10px;
   }
@@ -26,5 +32,5 @@ box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
   padding: 3px 10px;
   }
 
-  
+
  }
