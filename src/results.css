@@ -46,3 +46,24 @@ li{
 strong{
   color: #241D11;
 }
+@media (max-width: 700px) {
+  .Results h2 {
+  font-size: 20px;
+  padding-top: 0px;
+}
+.Meaning{
+font-size: 10px;
+}
+.Results{
+  padding: 0px;
+}
+.Results h3{
+  font-size: 15px;
+  margin-bottom:10px;
+ 
+}
+.PartOfSpeech{
+  border:blanchedalmond 2px solid;
+  padding: 5px 10px;
+}
+}

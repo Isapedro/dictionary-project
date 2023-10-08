@@ -6,7 +6,7 @@ import "bootstrap/dist/css/bootstrap.css";
 function App() {
   return (
     <div className="container">
-      <div className="card bg-secondary bg-opacity-25 m-5">
+      <div className="card bg-secondary bg-opacity-25 mt-5 ms-5 me-5">
         <div className="App">
           <header>
           <div className="title">Dictionary</div>
