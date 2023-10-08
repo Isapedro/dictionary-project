@@ -9,7 +9,7 @@ export default function Results(props) {
         <h2>{props.results.word}</h2>
         <h3>{props.results.phonetic}</h3>
         
-              <Meaning meaning={props.results.meanings[0]} />
+              <Meaning meaning={props.results.meanings} />
             </div>
           );
        

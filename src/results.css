@@ -5,7 +5,10 @@
   
   
 }
-
+ ul,li{
+  display: inline-block;
+  padding-right: 10px;
+}
 
 .Results h3{
   font-size: 25px;
