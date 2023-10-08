@@ -1,3 +1,8 @@
+.Results{
+  padding: 10px;
+}
+
+
 .Results h2 {
   font-size: 40px;
   color: blanchedalmond;
@@ -5,21 +10,37 @@
   
   
 }
- ul,li{
-  display: inline-block;
-  padding-right: 10px;
-}
-
 .Results h3{
   font-size: 25px;
   color:blanchedalmond;
   margin-bottom:30px;
+  opacity: 0.7;
 
 }
 
 .Meaning{
 color: blanchedalmond;
-font-size: 25px;
+font-size: 20px;
+}
+.PartOfSpeech{
+  border:blanchedalmond 3px solid;
+  padding: 5px 20px;
+}
+section{
+  background-color: #766A57;
+  border-radius: 5px;
+  box-shadow: 5px 5px 5px rgba(0, 0, 0, 0.7);
+  
+}
+ ul,li{
+  display: inline-block;
+  
+}
+ol, ul{
+  padding-left: 2px;
+}
+li{
+  padding-right: 10px;
 }
 
 strong{
